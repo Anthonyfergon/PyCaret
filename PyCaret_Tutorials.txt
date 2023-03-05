@@ -1,4 +1,0 @@
-PyCaret Reousrces:
-
-Medium Tutorials:
-https://insaid.medium.com/a-complete-guide-to-pycaret-c07b1e51f698#:~:text=To%20install%20PyCaret%2C%20activate%20the,jupyter%20notebook%20in%20the%20CLI.&text=In%20Anaconda%20prompt%2C%20after%20activating,the%20command%20is%20given%20below.
